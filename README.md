@@ -10,3 +10,4 @@
   把解压后的文件夹放到 '$HOME/.local/share/Steam/compatibilitytools.d/'文件夹下面
   重启steam添加非steam游戏选择原神，打开兼容性的页面选择dwproton-11.0-2-x86_64
 4.开始游戏
+演示视频
